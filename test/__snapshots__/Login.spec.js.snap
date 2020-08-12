@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Login page renders properly 1`] = `
+<div class="login-wrapper container">
+  <div class="row">
+    <div class="col login-action-item linkedin">
+      Linkedin
+    </div>
+    <div class="col login-action-item salesforce">
+      SFDC
+    </div>
+    <div class="col login-action-item google">
+      Google
+    </div>
+  </div>
+</div>
+`;
